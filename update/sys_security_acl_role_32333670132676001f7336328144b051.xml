@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-03 09:38:11</sys_created_on>
+        <sys_id>32333670132676001f7336328144b051</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_breakout_reg_app_table.x_snc_breakout_reg.user</sys_name>
+        <sys_package display_value="BreakOut Reg App" source="x_snc_breakout_reg">2a33fe30132676001f7336328144b032</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BreakOut Reg App">2a33fe30132676001f7336328144b032</sys_scope>
+        <sys_security_acl display_value="x_snc_breakout_reg_app_table">72333670132676001f7336328144b042</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_32333670132676001f7336328144b051</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-03 09:38:11</sys_updated_on>
+        <sys_user_role display_value="x_snc_breakout_reg.user" name="x_snc_breakout_reg.user">6e33b270132676001f7336328144b0d5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Breakout Reg App Table" max_length="40" name="x_snc_breakout_reg_app_table" type="collection">
+        <element choice="1" label="Breakout Session" max_length="200" name="breakout_session" type="choice">
+            <choice>
+                <element label="Breakout Session 1" value="bs1"/>
+                <element label="Breakout Session 2" value="bs2"/>
+            </choice>
+        </element>
+        <element label="First Name" max_length="200" name="first_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

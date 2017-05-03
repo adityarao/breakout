@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Breakout Reg App Table" language="en" table="x_snc_breakout_reg_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Breakout Reg App Table</label>
+            <language>en</language>
+            <name>x_snc_breakout_reg_app_table</name>
+            <plural>Breakout Reg App Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-03 09:38:11</sys_created_on>
+            <sys_id>fe333670132676001f7336328144b059</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Breakout Reg App Table</sys_name>
+            <sys_package display_value="BreakOut Reg App" source="x_snc_breakout_reg">2a33fe30132676001f7336328144b032</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BreakOut Reg App">2a33fe30132676001f7336328144b032</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_breakout_reg_app_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-03 09:38:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
